@@ -1,7 +1,7 @@
 # Global Deforestation Project
 
 <div id="Deforestation_image", align="center">
-  <img src="https://github.com/LaudRam/Python_Final_Project_ExploreAI.git/Deforestation_image.jpg" width="700" height="500" alt=""/>
+  <img src="Deforestation_image.jpg" width="700" height="500" alt=""/>
 </div>
 
 
@@ -50,8 +50,8 @@ A virtual environment is used for the project (add more)
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Ntabiseng Mokhachane]()                                                | ntabisengmokhachane95@gmail.com
-| [Laudicia Ramasenya]()                                                 | laudiciaramasenya@gmail.com
-| [Musa Khuzwayo]()                                         | musakhuzwayomedia@gmail.com
-| [Obakeng Motalane]()                                                | lensitaliks@gmail.com
-| [Khumbelo Dowelani]()                                                 | dowelanikhumbelo@gmail.com
+| [Ntabiseng Mokhachane]()                                                                    | ntabisengmokhachane95@gmail.com
+| [Laudicia Ramasenya]()                                                                      | laudiciaramasenya@gmail.com
+| [Musa Khuzwayo]()                                                                           | musakhuzwayomedia@gmail.com
+| [Obakeng Motalane]()                                                                        | lensitaliks@gmail.com
+| [Khumbelo Dowelani]()                                                                       | dowelanikhumbelo@gmail.com
