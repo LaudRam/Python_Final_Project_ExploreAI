@@ -39,9 +39,9 @@ The raw dataset used in the project can be located [here] (https://github.com/La
 * <b>Country_name</b>: list of country names, regions, and income statuses, with each element (country, region, income status) appearing as a distinct entry.
 * <b>Country_code</b>: A three letter code that distinctively represents a country.
 * <b>1990</b>: total forest area in squared kilometers.
-    \n .
-    \n .
-    \n .
+    <p> .</p>
+    <p> .</p>
+    <p> .</p>
 * <b>2021</b> : total forest area in squared kilometers.
 
 ## 3. Packages <a class="anchor" id="packages"></a>
