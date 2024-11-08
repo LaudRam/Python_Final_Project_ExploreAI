@@ -1,7 +1,9 @@
 # Global Deforestation Project
 
 <div id="Deforestation_image", align="center">
+
   <img src="Deforestation_image.jpg" width="700" height="500" alt=""/>
+
 </div>
 
 
@@ -97,5 +99,10 @@ These are the authors of this project, along with their emails for communication
 | [Nthabiseng Mokhachane](https://github.com/NthabisengM95)                                                                    | nthabisengmokhachane95@gmail.com
 | [Laudicia Ramasenya](https://github.com/LaudRam)                                                                      | laudiciaramasenya@gmail.com
 | [Musa Khuzwayo](https://github.com/MusaKhuzwayo)                                                                           | musakhuzwayomedia@gmail.com
+<<<<<<< HEAD
 | [Obakeng Motalane](https://github.com/lensitaliks)                                                                        | lensitaliks@gmail.com
 | [Khumbelo Dowelani](https://github.com/dowelani)                                                                       | dowelanikhumbelo@gmail.com
+=======
+| [Obakeng Motalane]()                                                                        | lensitaliks@gmail.com
+| [Khumbelo Dowelani](https://github.com/dowelani)                                                                       | dowelanikhumbelo@gmail.com
+>>>>>>> 39ebcac24105f7bdccef87b7ef5784bc13fe301a
