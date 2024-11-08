@@ -57,15 +57,15 @@ The following packages and libraries are essential for analysis and achieving th
 
 ## 4.Enivironment <a class="anchor" id="environment"></a>
 
-The project made use of a virtual environment. This can be set up in Anaconda, which is a open source software comprising of Jupyter and supports Python language amongst other things. The steps to achieve this using conda interface are detailed below.
+The project made use of a virtual environment to ensure all dependencies are isolated. This can be set up in Anaconda, which is a open source software comprising of Jupyter Notebooks and supports Python language amongst other tools. The steps to achieve this using conda interface are detailed below.
 
 ###  Setting up environment
 
-Firstly ensure that conda is installed in your path on your command prompt/terminal. If it is installed, a version numeber will be retrieved. 
+Firstly ensure that conda is installed and this can be done by running the command below on your command prompt or terminal. If it is installed correctly, a version numeber will be retrieved. 
 ```bash
 conda -V
 ```
-The next step is to create a named environment.
+The next step is to create a named environment. Replace <environment_name> with your desired name for the enivironment.
 ```bash
 conda create --name <environment_name>
 ```
@@ -76,7 +76,8 @@ conda activate <environment_name>
 
 ### Installing packages in the environment
 
-It is paramount that the libraries are installed on your enivironment before importing. Use the the package manager and requirements.txt file to install required libraries as demonstrated below:
+It is paramount that the libraries are installed on your enivironment before importing. Use the the package manager and requirements.txt file to install required libraries as demonstrated below.
+
 ```bash
 conda install pip #Installs package manager
 
@@ -85,7 +86,7 @@ pip install -r requirements.txt #installs necessary packages encased in requirem
 
 ### Cloning Git repository
 
-To clone the repository to a local drive, type the following command:
+To clone the repository to a local machine, type the following command. Ensure to replace <link_to_git_repository> with the actual URL of the repository. 
 
 `git clone <link_to_git_repository>`
 
