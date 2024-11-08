@@ -35,7 +35,7 @@ The folowing structure is used for data analysis sequentially:
 
 ## 2. Datasets <a class="anchor" id="dataset"></a>
 
-The raw dataset used in the project can be located [here] (https://github.com/LaudRamPython_Final_Projec_ExploreAI/forest_area_km.csv). It consists of 34 coloumns and 259 rows, and has the follwing features:
+The raw dataset used in the project can be located [here] (https://github.com/LaudRam/Python_Final_Projec_ExploreAI/forest_area_km.csv). It consists of 34 coloumns and 259 rows, and has the follwing features:
 * <b>Country_name</b>: list of country names, regions, and income statuses, with each element (country, region, income status) appearing as a distinct entry.
 * <b>Country_code</b>: A three letter code that distinctively represents a country.
 * <b>1990</b>: total forest area in squared kilometers.
@@ -101,3 +101,7 @@ These are the authors of this project, along with their emails for communication
 | [Musa Khuzwayo](https://github.com/MusaKhuzwayo)                                                                           | musakhuzwayomedia@gmail.com
 | [Obakeng Motalane](https://github.com/lensitaliks)                                                                        | lensitaliks@gmail.com
 | [Khumbelo Dowelani](https://github.com/dowelani)                                                                       | dowelanikhumbelo@gmail.com
+
+# Image Reference
+
+1. Curley, J. (2018). How Does Deforestation Affect The Air? [online] Sciencing. Available at: https://www.sciencing.com/deforestation-affect-air-10632/[Accessed 6 Nov. 2024].
