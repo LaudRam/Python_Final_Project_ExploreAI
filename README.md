@@ -39,9 +39,15 @@ The raw dataset used in the project can be located [here] (https://github.com/La
 * <b>Country_name</b>: list of country names, regions, and income statuses, with each element (country, region, income status) appearing as a distinct entry.
 * <b>Country_code</b>: A three letter code that distinctively represents a country.
 * <b>1990</b>: total forest area in squared kilometers.
+<<<<<<< HEAD
     \n .
     \n .
     \n .
+=======
+    <p> .</p>
+    <p> .</p>
+    <p> .</p>
+>>>>>>> 28779ff766d4a53b12994513a2fdf59f1512c3ea
 * <b>2021</b> : total forest area in squared kilometers.
 
 ## 3. Packages <a class="anchor" id="packages"></a>
@@ -100,9 +106,14 @@ These are the authors of this project, along with their emails for communication
 | [Laudicia Ramasenya](https://github.com/LaudRam)                                                                      | laudiciaramasenya@gmail.com
 | [Musa Khuzwayo](https://github.com/MusaKhuzwayo)                                                                           | musakhuzwayomedia@gmail.com
 <<<<<<< HEAD
+<<<<<<< HEAD
 | [Obakeng Motalane](https://github.com/lensitaliks)                                                                        | lensitaliks@gmail.com
 | [Khumbelo Dowelani](https://github.com/dowelani)                                                                       | dowelanikhumbelo@gmail.com
 =======
 | [Obakeng Motalane]()                                                                        | lensitaliks@gmail.com
 | [Khumbelo Dowelani](https://github.com/dowelani)                                                                       | dowelanikhumbelo@gmail.com
 >>>>>>> 39ebcac24105f7bdccef87b7ef5784bc13fe301a
+=======
+| [Obakeng Motalane](https://github.com/lensitaliks)                                                                        | lensitaliks@gmail.com
+| [Khumbelo Dowelani](https://github.com/dowelani)                                                                       | dowelanikhumbelo@gmail.com
+>>>>>>> 28779ff766d4a53b12994513a2fdf59f1512c3ea
