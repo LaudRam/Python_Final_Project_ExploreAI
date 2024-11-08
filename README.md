@@ -33,13 +33,13 @@ The folowing structure is used for data analysis sequentially:
 
 ## 2. Datasets <a class="anchor" id="dataset"></a>
 
-The raw dataset used in the projec can be located [here] (Python_Final_Projec_ExploreAI/forest_area_km.csv). It consists of # coloumns and # rows, and has the follwing features:
+The raw dataset used in the project can be located [here] (https://github.com/LaudRamPython_Final_Projec_ExploreAI/forest_area_km.csv). It consists of # coloumns and # rows, and has the follwing features:
 * <b>Country_name</b>: list of country names, regions, and income statuses, with each element (country, region, income status) appearing as a distinct entry.
 * <b>Country_code</b>: A three letter code that distinctively represents a country.:
 * <b>1990</b>: total forest area in squared kilometers
-    <p>.</p>
-    <p>.</p>
-    <p>.</p>
+    \n .
+    \n .
+    \n .
 * <b>2021</b> : total forest area in squared kilometers
 
 ## 3. Packages <a class="anchor" id="packages"></a>
