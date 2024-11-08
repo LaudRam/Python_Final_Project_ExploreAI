@@ -69,7 +69,7 @@ conda create --name <environment_name>
 ```
 Then activate the environment.
 ```bash
-`conda activate <environment_name>`
+conda activate <environment_name>
 ```
 
 ### Installing packages in the environment
@@ -97,5 +97,5 @@ These are the authors of this project, along with their emails for communication
 | [Nthabiseng Mokhachane](https://github.com/NthabisengM95)                                                                    | nthabisengmokhachane95@gmail.com
 | [Laudicia Ramasenya](https://github.com/LaudRam)                                                                      | laudiciaramasenya@gmail.com
 | [Musa Khuzwayo](https://github.com/MusaKhuzwayo)                                                                           | musakhuzwayomedia@gmail.com
-| [Obakeng Motalane]()                                                                        | lensitaliks@gmail.com
+| [Obakeng Motalane](https://github.com/lensitaliks)                                                                        | lensitaliks@gmail.com
 | [Khumbelo Dowelani](https://github.com/dowelani)                                                                       | dowelanikhumbelo@gmail.com
